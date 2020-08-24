@@ -1,16 +1,19 @@
-### Hi there 👋
+Hi there!💻  I'm currently learning about backend development, I'm passionate about software development and everything related to building applications.
 
-<!--
-**ernestojv/ernestojv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+i'm currently learning about Node, Express, Mongo and related technologies.
 
-Here are some ideas to get you started:
+### Tech Stack
+<p align="left">
+<img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="50" height="50"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contact
+[Linkedin](https://www.linkedin.com/in/juan-ernesto-ju%C3%A1rez-vanegas-418174198/)
+
+[e-mail](mailto:ernestovanegas9@gmail.com)
