@@ -3,7 +3,7 @@ Hi there!💻  I'm a web developer, I'm passionate about software development an
 
 ### Tech Stack
 <p align="left">
-| JavaScript | Java | NodeJS | ExpressJS | Angular | MongoDB | MySql |
+| JavaScript | Java | NodeJS | ExpressJS | Angular | MongoDB | MySql | React |
 </p>
 
 ### Contact
